@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83130" started-at="2019-07-14T21:28:02Z" finished-at="2019-07-14T21:29:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83130" started-at="2019-07-14T21:28:02Z" finished-at="2019-07-14T21:29:25Z">
+      <class name="relayR.RelayRUIHomePageHeaderlinksTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:relayR.RelayRUIHomePageHeaderlinksTest@5e82df6a]" name="initialize" is-config="true" duration-ms="6650" started-at="2019-07-14T21:28:02Z" finished-at="2019-07-14T21:28:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="VerifyHomePageHeaderlinks()[pri:0, instance:relayR.RelayRUIHomePageHeaderlinksTest@5e82df6a]" name="VerifyHomePageHeaderlinks" duration-ms="76327" started-at="2019-07-14T21:28:08Z" finished-at="2019-07-14T21:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageHeaderlinks -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:relayR.RelayRUIHomePageHeaderlinksTest@5e82df6a]" name="teardown" is-config="true" duration-ms="99" started-at="2019-07-14T21:29:25Z" finished-at="2019-07-14T21:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- relayR.RelayRUIHomePageHeaderlinksTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
